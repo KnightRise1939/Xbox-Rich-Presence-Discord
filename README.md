@@ -69,7 +69,10 @@ If you're not seeing any image while playing your game or you need help with any
 
 | Game Title | Link | Status |
 | --- | --- | --- |
+| Borderlands: The Pre-Sequel | [Image link](https://www.gearboxsoftware.com/wp-content/uploads/2014/12/840070cd5a4f15581f6e1dcdedd5fa48c3f1abd7.png) | ❌ |
+| Firewatch | [Image link](https://cdn2.steamgriddb.com/grid/f3e34b1ad8a9a285039d400e6dfc86cc.jpg) | ❌ |
 | Kinect Sports: Season Two | [Image link](https://image.torob.com/base/images/9v/55/9v55RkftvWPhSpul.jpg) | ❌ |
+| MONSTER HUNTER: WORLD | [Image link](https://cdn2.steamgriddb.com/grid/ad0c17a89c56731630582f6a2b95c044.png) | ❌ |
 | Coral Island | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202310/3018/578c25e83d7fe754a625ae6910d84e4ce12d420f9771beb1.png) | ✔ |
 | DRAGON BALL: Sparking! ZERO | [Image link](https://media.vandal.net/m/13/136622/dragon-ball-sparking-zero-2024101110434740_1.jpg) | ✔ |
 | Test Drive Unlimited | [Image link](https://assets-prd.ignimgs.com/2023/12/23/tdu1-1703350705146.jpg) | ✔ |
@@ -151,7 +154,6 @@ If you're not seeing any image while playing your game or you need help with any
 | Forza Horizon 5 | [Image link](https://cdn2.steamgriddb.com/icon/981ee11c08e460dc540242ee105b5ced/32/512x512.png) | ✔ |
 | Halo Infinite | [Image link](https://cdn2.steamgriddb.com/grid/ad3613baccebc39f8d17615c108b34f2.png) | ✔ |
 | Borderlands | [Image link](https://media.vandal.net/m/71969/borderlands-edicion-juego-del-ano-201943163663_9.jpg) | ✔ |
-| Borderlands: The Pre-Sequel | [Image link](https://www.gearboxsoftware.com/wp-content/uploads/2014/12/840070cd5a4f15581f6e1dcdedd5fa48c3f1abd7.png) | ✔ |
 | Borderlands 2 | [Image link](https://s01.riotpixels.net/data/60/5c/605c09ad-01eb-4324-a2c9-82013d1f90c9.jpg/cover.borderlands-2.1024x1024.2014-04-24.24.jpg) | ✔ |
 | COD: Advanced Warfare | [Image link](https://wepcgamer.com/wp-content/uploads/2021/10/Call-of-Duty-Ghosts-PC-Version-Full-Game-Setup-Free-Download.jpeg-1-1024x1024.webp) | ✔ |
 | Call of Duty: WaW | [Image link](https://assets-prd.ignimgs.com/2022/03/28/codwaw-1648511549298.jpg) | ✔ |
@@ -189,7 +191,6 @@ If you're not seeing any image while playing your game or you need help with any
 | Mass Effect Legendary Edition | [Image link](https://cdn2.steamgriddb.com/grid/2ace71f2144ce59faec739e08603d4d3.jpg) | ✔ |
 | LIMBO | [Image link](https://cdn2.steamgriddb.com/grid/91ae50d539e53a0c72eccd6ec1a55b66.jpg) | ✔ |
 | INSIDE | [Image link](https://cdn2.steamgriddb.com/grid/51eac99551f4fa89da93f217a521f007.jpg) | ✔ |
-| Firewatch | [Image link](https://cdn2.steamgriddb.com/grid/f3e34b1ad8a9a285039d400e6dfc86cc.jpg) | ✔ |
 | Dying Light | [Image link](https://cdn2.steamgriddb.com/grid/fc7fc726ca255b6d2e10b76071e51972.png) | ✔ |
 | Minecraft: Xbox 360 Edition | [Image link](https://cdn2.steamgriddb.com/grid/fa0ab781087a90e49e44b3814fb701ea.png) | ✔ |
 | Marvel's Guardians of the Galaxy | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202106/0215/Pw9cWnyqkix3EoCOGqrN1cgN.png) | ✔ |
@@ -278,7 +279,6 @@ If you're not seeing any image while playing your game or you need help with any
 | Persona 4 Golden | [Image link](https://cdn2.steamgriddb.com/file/sgdb-cdn/icon_thumb/ecb565cd82de68494c294dc8d4b419a0.png) | ✔ |
 | Mortal Shell: Enhanced Edition | [Image link](https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/17b65afe58c49edc1bdd812c554ee3bb/32/256x256.png) | ✔ |
 | Monster Hunter Rise | [Image link](https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/faa453efde4ac6a36849ba381feb9e87/32/256x256.png) | ✔ |
-| MONSTER HUNTER: WORLD | [Image link](https://cdn2.steamgriddb.com/grid/ad0c17a89c56731630582f6a2b95c044.png) | ✔ |
 | Monster Hunter Wilds | [Image link](https://cdn2.steamgriddb.com/grid/b3b029333d503e2239efc9dfe164de78.png) | ✔ |
 | Monster Hunter Wilds Beta test | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202410/1506/b0a0c6242eac82f717e7bfb36b225e747112f19dfc187f00.png) | ✔ |
 | Doom Eternal | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202010/0114/ERNPc4gFqeRDG1tYQIfOKQtM.png) | ✔ |
